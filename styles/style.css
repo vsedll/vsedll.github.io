@@ -1,0 +1,41 @@
+html {
+    font-size: 10px;
+    font-family: 'Oswald', sans-serif;
+    background-color: #7769B8;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color:goldenrod;
+    text-shadow: 3px 3px 1px black;
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(121, 5, 156);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img{
+    margin: 0 auto;
+    width: 600px;
+}
+
+button {
+    background-color: goldenrod;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    font-size: 16px;
+    margin-left: 250px;
+}
